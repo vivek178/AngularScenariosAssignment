@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+
+This repository contain all the Seven scenarios. This scenarios contains examples on interpolation, property binding, class binding, style binding, event binding, template reference variable, two way data binding, component interaction, service to component interaction.   
